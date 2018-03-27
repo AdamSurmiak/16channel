@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/11/12 10:46:27.132.pas,C:\Sources\Electrochimie\OEM_PACKAGE\trunk\Examples\Delphi\blStrings.pas=</Transaction>
+    <Transaction>2013/11/12 11:08:19.682.pas,C:\Sources\Electrochimie\OEM_PACKAGE\trunk\Examples\Delphi\ExType.pas=</Transaction>
+    <Transaction>2013/11/12 11:25:46.132.pas,C:\Sources\Electrochimie\OEM_PACKAGE\trunk\Examples\Delphi\DefDev.pas=</Transaction>
+    <Transaction>2013/11/12 11:25:48.252.pas,C:\Sources\Electrochimie\OEM_PACKAGE\trunk\Examples\Delphi\DefDev.cons.pas=</Transaction>
+    <Transaction>2013/11/12 12:19:20.531.pas,C:\Sources\Electrochimie\OEM_PACKAGE\trunk\Examples\Delphi\VMPadddevice.pas=C:\Sources\Electrochimie\OEM_PACKAGE\trunk\Examples\Delphi\VMPFinddevice.pas</Transaction>
+    <Transaction>2013/11/12 12:19:20.531.dfm,C:\Sources\Electrochimie\OEM_PACKAGE\trunk\Examples\Delphi\VMPadddevice.dfm=C:\Sources\Electrochimie\OEM_PACKAGE\trunk\Examples\Delphi\VMPFinddevice.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

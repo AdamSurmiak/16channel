@@ -1,0 +1,8 @@
+16_CHANNEL POTENTAILSTAT VMP3
+*****************************
+
+Please commit changes with following comment:
+
+LABVIEW_DATEinFORMATDDMMYYYY_NAME
+
+
